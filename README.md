@@ -4,11 +4,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=580&height=44&lines=let's%20make%20the%20world%20a%20better%20place!" alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
+
+I'm from Brazil 🇧🇷, but I also speak English 🇺🇲 and French 🇲🇫.  
+I'm fascinated by physics ⚛️, the universe  🌌, black holes ⚫, it's all just so fascinating, to understand how everything works, quantum physics, theories, it's just, amazing. I always tinkered with software 💾, hardware 🖥️ and electronics ⚡. them embraced the open source community 🌐 not so long ago, started using Linux 🐧 and to prefer open source software over proprietary however possible.  
+I started with Kubuntu, and later switched to Cachyos (which is my current and favorite distro), them mastered the terminal, understood how the system works. I'd never switch back to the bloated spyware from microslop, I started to care about online privacy 🔐 and software/hardware max efficiency &amp; performance 💯, while still keeping usability and appearance.  
+I'm a casual gamer 🎮, I play mainly Minecraft ⛏️ ( with lots performance and QOL mods), but I also play other games.  
+I also make part of a autoral band 🎸 With my family called Coelhos da Arte (check our Instagram @coelhosdaarte), we have 8 years of many a presentation and new songs, this year we started our home recording studio 🎙️, so soon we'll be available in all platforms such as Spotify, youtube music, dezzer, Soundcloud an other 31 platforms.  
+I listen basically and exclusively rock music🤘, metálica, ACDC, guns and roses, nirvana, Lynyrd Skynyrd, dire straits, and some french rock bands.  
+So I'm basically a nerd 🤓   
+and my favorite color is blue 💙
 
 🌱 &nbsp;I'm currently learning **Bash**  
 😄 &nbsp;Pronouns: **he/him**  
@@ -26,7 +31,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/@cauecoelhoguitarra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/cauecoelhoguitarra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:cauecoelho24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
