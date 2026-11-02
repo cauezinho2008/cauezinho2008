@@ -77,9 +77,9 @@ And, of course, my favorite color is **blue** 💙
   <a href="https://www.duolingo.com/profile/Cauezinho2008">
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo" />
   </a>
-  <a href="https://www.curseforge.com/members/cauezinho2008/projects">
-    <img src="https://img.shields.io/badge/CurseForge-2f81f7?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" />
-  </a>
+<a href="https://www.curseforge.com/members/cauezinho2008/projects">
+  <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" />
+</a>
 </p>
 
 
