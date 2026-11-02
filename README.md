@@ -1,5 +1,3 @@
-# 💙 Hello! I'm Cauê
-
 <p align="center">
   <a href="https://github.com/cauezinho2008">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Cau%C3%AA" alt="Hello! I'm Cauê" />
